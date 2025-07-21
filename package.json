@@ -1,0 +1,24 @@
+{
+  "name": "shopeasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jana23jk/shopeasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jana23jk/shopeasy/issues"
+  },
+  "homepage": "https://github.com/Jana23jk/shopeasy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
